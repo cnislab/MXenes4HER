@@ -1,5 +1,5 @@
 # MXenes4HER
-The global challenges like energy crisis and envirnomental issues need to be addressed. Hydrogen being a clean energy source, can be a sustainable replacement of fossil fuels. However, it is obtained from electrochemical water-splitting which uses expensive and scarce platinum group metals. 
+The global challenges like energy crisis and envirnomental problems need to be addressed. Hydrogen being a clean energy source, can be a sustainable replacement of fossil fuels which are responsible for these issues. However, it is obtained from electrochemical water-splitting which uses expensive and scarce platinum group metals. 
 MXenes, 2D transition metal carbides/nitrides/borites can be used as catalysts for Hydrogen Evolution Reaction (HER). 
 
 # MXenes2Code
