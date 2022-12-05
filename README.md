@@ -1,7 +1,7 @@
 # MXenes4HER
 The development of low-cost and highly-efficient pathways to produce renewable energy resources has been one of the top priorities in the science community. To that end, the holistic evaluation and the breathtaking success of MXenes have gained intense momentum by unlocking several new directions toward its usage in catalysis due to their evolutionary hallmark properties. However, the large variety of chemical compositions makes it highly difficult to screen appropriate materials. Hence, it is an urgent need to discover properties that provide information about the catalytic activity at a lower computational cost, particularly to screen over a pool of chemically related family of materials. With this aim, we establish a robust and more broadly applicable multistep workflow from the toolbox of supervised machine learning (ML) algorithms to construct well-trained data-driven models for predicting the hydrogen evolution reaction (HER) activity over 4,500 $MM{^\prime}XT_2$-type MXenes, where 25% of the material space (1,125 systems) is randomly selected to evaluate the HER performance using density functional theory (DFT) calculations.
 
-<img src=ML Workflow.jpg>
+![My Image](ML Workflow.jpg) 
 
 # Contents
 **MXenes2Code.ipynb** <br>
