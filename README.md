@@ -10,7 +10,7 @@ We provide a step-wise procedure to predict the Gibbs Free Energy (target proper
 **MXenes2Model.zip** <br>
 The best models (final RFR and GBR models) can be found in the zip folder Models4MXenes, that can be further used for prediction of $MM{^\prime}XT_2$-type MXenes providing the selected input features (key descriptors).
 
-**Code4plot.ipynb** <br>
+**Code4Plots.ipynb** <br>
 Code for designing all the plots are provided here.   
 
 **Contact Details** <br>
