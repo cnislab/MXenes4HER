@@ -16,9 +16,7 @@ Code for designing all the plots are provided here.
 **Contact Details** <br>
 The contact details of the corresponding authors are mentioned below: <br>
 jayantks@iitk.ac.in <br>
-mosesabrahamb@gmail.com <br>
-halderprosun7@gmail.com <br>
-s.sinhapriyanka16@gmail.com <br>
+
 
 
 
