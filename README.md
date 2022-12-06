@@ -14,7 +14,7 @@ Code for designing all the plots are provided here.
 The best models (final RFR and GBR models) can be found in the zip folder Models4MXenes, that can be further used for prediction of $MM{^\prime}XT_2$-type MXenes providing the selected input features (key descriptors).
 
 **Contact Details** <br>
-The contact details of the corresponding authors are mentioned below:
+The contact details of the corresponding authors are mentioned below: <br>
 jayantks@iitk.ac.in <br>
 mosesabrahamb@gmail.com <br>
 halderprosun7@gmail.com <br>
