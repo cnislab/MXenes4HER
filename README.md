@@ -15,15 +15,12 @@ Code for designing all the plots are provided here.
 
 **Dependencies** <br>
 The following python libraries have been used in the current work:
-1. Pandas
-2. Scikit-learn
-3. Matplotlib
-4. Seaborn
-5. Re
-6. Joblib
-
+1. Pandas           4. Seaborn
+2. Scikit-learn     5. Re
+3. Matplotlib       6. Joblib
 
 **Contact Details** <br>
+**Corresponding Authors** Jayant K. Singh, B. Moses Abraham, Prosun Halder, Priyanka Sinha <br>
 Email address: jayantks@iitk.ac.in <br>
 
 
