@@ -15,10 +15,10 @@ The best models (final RFR and GBR models) can be found in the zip folder Models
 
 **Contact Details** <br>
 The contact details of the corresponding authors are mentioned below:
-jayantks@iitk.ac.in
-mosesabrahamb@gmail.com
-halderprosun7@gmail.com
-s.sinhapriyanka16@gmail.com
+jayantks@iitk.ac.in <br>
+mosesabrahamb@gmail.com <br>
+halderprosun7@gmail.com <br>
+s.sinhapriyanka16@gmail.com <br>
 
 
 
