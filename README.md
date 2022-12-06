@@ -14,8 +14,7 @@ The best models (final RFR and GBR models) can be found in the zip folder Models
 Code for designing all the plots are provided here.   
 
 **Contact Details** <br>
-The contact details of the corresponding authors are mentioned below: <br>
-jayantks@iitk.ac.in <br>
+Email address: jayantks@iitk.ac.in <br>
 
 
 
