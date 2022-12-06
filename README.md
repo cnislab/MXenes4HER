@@ -13,6 +13,14 @@ The best models (final RFR and GBR models) can be found in the zip folder Models
 **Code4Plots.ipynb** <br>
 Code for designing all the plots are provided here.   
 
+**Dependencies** <br>
+The following python libraries have been used in the current work:
+1. Pandas
+2. Scikit-learn
+3. Matplotlib
+4. Seaborn
+5. Re
+6. Joblib
 **Contact Details** <br>
 Email address: jayantks@iitk.ac.in <br>
 
