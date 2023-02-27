@@ -8,7 +8,7 @@ The development of low-cost and highly-efficient pathways to produce renewable e
 We provide a step-wise procedure to predict the Gibbs Free Energy (target property) of the hydrogen adsorbed MXenes. The list of all the features are available in **dataset.csv** file and the DFT calculated Gibbs Free Energy of 1,125 MXenes are given in **deltaG_H.csv**, which are used in training the model. 
 
 **MXenes2Model.zip** <br>
-The best models (final RFR and GBR models) can be found in the zip folder Models4MXenes, that can be further used for prediction of $MM{^\prime}XT_2$-type MXenes providing the selected input features (key descriptors).
+The best models (final RFR and GBR models) can be found in the zip folder, that can be further used for prediction of $MM{^\prime}XT_2$-type MXenes providing the selected input features (key descriptors).
 
 **Code4Plots.ipynb** <br>
 Code for designing all the plots are provided here.   
